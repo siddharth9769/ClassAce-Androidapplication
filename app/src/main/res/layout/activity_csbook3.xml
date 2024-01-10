@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".CSBook3">
+
+    <ImageView
+        android:id="@+id/Pos"
+        android:layout_width="324dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/pos" />
+
+    <ImageView
+        android:id="@+id/Linearalgebra"
+        android:layout_width="316dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/dm" />
+
+    <ImageView
+        android:id="@+id/Datastructure"
+        android:layout_width="318dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/datas" />
+
+    <ImageView
+        android:id="@+id/Jad"
+        android:layout_width="316dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/corej" />
+
+
+
+</LinearLayout>
+
+

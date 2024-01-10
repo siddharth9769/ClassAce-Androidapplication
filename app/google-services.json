@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "204195060680",
+    "project_id": "classace-a9fbb",
+    "storage_bucket": "classace-a9fbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204195060680:android:50f7e8e3b6f2d1872f7efd",
+        "android_client_info": {
+          "package_name": "com.example.classace"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaqn0YZ-EFLvFn1cZgi1VgMw23IaJpcaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

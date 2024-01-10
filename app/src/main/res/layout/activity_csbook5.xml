@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".CSBook5">
+
+    <ImageView
+        android:id="@+id/Artificialintelligence"
+        android:layout_width="333dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/ai" />
+
+    <ImageView
+        android:id="@+id/Ins"
+        android:layout_width="331dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/ins" />
+
+    <ImageView
+        android:id="@+id/Stqa"
+        android:layout_width="322dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/stqa" />
+
+    <ImageView
+        android:id="@+id/Projectm"
+        android:layout_width="329dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/pm" />
+
+
+
+</LinearLayout>
+
+
